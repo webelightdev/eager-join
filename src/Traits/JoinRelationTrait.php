@@ -1,8 +1,8 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Traits;
+namespace webelightdev\EagerJoin\Traits;
 
-use Fico7489\Laravel\EloquentJoin\Services\QueryNormalizer;
+use webelightdev\EagerJoin\Services\QueryNormalizer;
 
 trait JoinRelationTrait
 {

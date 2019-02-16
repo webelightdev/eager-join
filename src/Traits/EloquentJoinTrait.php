@@ -1,11 +1,11 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Traits;
+namespace webelightdev\EagerJoin\Traits;
 
-use Fico7489\Laravel\EloquentJoin\Relations\BelongsToJoin;
-use Fico7489\Laravel\EloquentJoin\Exceptions\EloquentJoinException;
-use Fico7489\Laravel\EloquentJoin\Relations\HasOneJoin;
-use Fico7489\Laravel\EloquentJoin\Services\QueryNormalizer;
+use webelightdev\EagerJoin\Relations\BelongsToJoin;
+use webelightdev\EagerJoin\Exceptions\EloquentJoinException;
+use webelightdev\EagerJoin\Relations\HasOneJoin;
+use webelightdev\EagerJoin\Services\QueryNormalizer;
 use Illuminate\Database\Eloquent\Builder;
 
 trait EloquentJoinTrait

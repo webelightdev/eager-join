@@ -1,6 +1,6 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Exceptions;
+namespace webelightdev\EagerJoin\Exceptions;
 
 class EloquentJoinException extends \Exception
 {

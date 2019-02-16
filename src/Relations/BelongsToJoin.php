@@ -1,8 +1,8 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Relations;
+namespace webelightdev\EagerJoin\Relations;
 
-use Fico7489\Laravel\EloquentJoin\Traits\JoinRelationTrait;
+use webelightdev\EagerJoin\Traits\JoinRelationTrait;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class BelongsToJoin extends BelongsTo

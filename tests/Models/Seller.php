@@ -1,6 +1,6 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Tests\Models;
+namespace webelightdev\EagerJoin\Tests\Models;
 
 class Seller extends BaseModel
 {
