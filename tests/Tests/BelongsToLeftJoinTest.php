@@ -1,10 +1,10 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Tests\Tests;
+namespace webelightdev\EagerJoin\Tests\Tests;
 
-use Fico7489\Laravel\EloquentJoin\Tests\Models\City;
-use Fico7489\Laravel\EloquentJoin\Tests\Models\Seller;
-use Fico7489\Laravel\EloquentJoin\Tests\TestCase;
+use webelightdev\EagerJoin\Tests\Models\City;
+use webelightdev\EagerJoin\Tests\Models\Seller;
+use webelightdev\EagerJoin\Tests\TestCase;
 
 class BelongsToLeftJoinTest extends TestCase
 {

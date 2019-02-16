@@ -1,6 +1,6 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Tests;
+namespace webelightdev\EagerJoin\Tests;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

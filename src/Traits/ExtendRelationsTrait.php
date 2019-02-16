@@ -1,9 +1,9 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Traits;
+namespace webelightdev\EagerJoin\Traits;
 
-use Fico7489\Laravel\EloquentJoin\Relations\BelongsToJoin;
-use Fico7489\Laravel\EloquentJoin\Relations\HasOneJoin;
+use webelightdev\EagerJoin\Relations\BelongsToJoin;
+use webelightdev\EagerJoin\Relations\HasOneJoin;
 use Illuminate\Support\Str;
 
 /**

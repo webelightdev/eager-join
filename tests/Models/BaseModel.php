@@ -1,8 +1,8 @@
 <?php
 
-namespace Fico7489\Laravel\EloquentJoin\Tests\Models;
+namespace webelightdev\EagerJoin\Tests\Models;
 
-use Fico7489\Laravel\EloquentJoin\Traits\EloquentJoinTrait;
+use webelightdev\EagerJoin\Traits\EloquentJoinTrait;
 use Illuminate\Database\Eloquent\Model;
 
 class BaseModel extends Model
